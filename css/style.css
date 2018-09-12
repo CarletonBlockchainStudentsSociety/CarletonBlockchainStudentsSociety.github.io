@@ -673,7 +673,7 @@ p {
             margin-bottom: 30px;
         }
         .hero h3 {
-            font-size: 1em;
+            font-size: 15px;
             color: #fff;
             letter-spacing: 2px;
             line-height: 25px;
@@ -705,7 +705,7 @@ p {
             margin-bottom: 30px;
         }
         .hero h3 {
-            font-size: .9em;
+            font-size: 15px
             color: #fff;
             letter-spacing: 2px;
             line-height: 25px;
@@ -737,7 +737,7 @@ p {
             margin-bottom: 30px;
         }
         .hero h3 {
-            font-size: .8em;
+            font-size: 15px;
             color: #fff;
             letter-spacing: 2px;
             line-height: 25px;
